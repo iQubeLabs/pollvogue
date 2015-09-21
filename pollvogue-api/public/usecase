@@ -1,0 +1,16 @@
+/register
+/login
+/logout
+/user/:id
+/user
+/friends/sendrequest/:nickname
+/friends/acceptrequest/:nickname
+/image/post
+/text/post
+/text/list/:id
+/image/list
+/image/list/:id
+/text/add/:id/accessList/:nickname
+/image/add/:id/accessList/:nickname
+/vote/text/:id/:vote
+/vote/image/:id/:vote

@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pollvogue.qml</file>
+        <file>PollvogueForm.ui.qml</file>
+        <file>home.png</file>
+        <file>repeat.png</file>
+        <file>AB.png</file>
+        <file>gohome3.png</file>
+        <file>ppl.png</file>
+        <file>realhome.png</file>
+        <file>poll.png</file>
+        <file>polla.png</file>
+        <file>pollaa.png</file>
+        <file>pollaaa.png</file>
+        <file>pollb.png</file>
+    </qresource>
+</RCC>
